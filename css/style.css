@@ -25,10 +25,22 @@ h3{
     font-size: 2rem;
     font-weight: 600;
 }
+h4{
+    font-size: 1.2rem;
+    font-weight: 200;  
+}
 
 p{
     font-size: 1rem;
     font-weight: 300;
+}
+a{
+    color:#d9ff68;
+    weight: 400;
+}
+a:hover{
+    color:rgb(240, 97, 245);
+    text-decoration: none;
 }
 .cursive{
     font-family: 'Nothing You Could Do', cursive;
