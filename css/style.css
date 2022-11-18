@@ -35,7 +35,7 @@ p{
     font-weight: 300;
 }
 a{
-    color:#d9ff68;
+    color:#3d8ae2;
     weight: 400;
 }
 a:hover{
@@ -163,4 +163,15 @@ section{
     }
     .fadeIn-bottom{
         top: 80%;
+    }
+
+    #footer p{
+        color: #000;
+    }
+    #footer a{
+        color:rgb(81, 81, 220)
+    }
+
+    #footer a:hover{
+        color:rgb(194, 56, 248)
     }
